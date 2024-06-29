@@ -1,0 +1,9 @@
+1.What is node js
+  	-Node js is a run time environment of javascript.
+
+2.Node js installation 
+	npm init
+3.
+
+
+
