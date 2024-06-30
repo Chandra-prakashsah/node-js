@@ -3,7 +3,32 @@
 
 2.Node js installation 
 	npm init
-3.
 
+3.Node.js File System
+  ->To handle file operations like creating, reading, deleting, etc., Node.js provides an inbuilt module called FS (File System). Node.js gives the functionality of file I/O by providing wrappers around the standard POSIX functions. All file system operations can have synchronous and asynchronous forms depending upon user requirements. To use this File System module, use the require() method:
+   ->var fs = require('fs');
+   ->Common use for File System module:
+	 	.Read Files
+		.Write Files
+		.Append Files
+		.Close Files
+		.Delete Files
+
+
+4.URL (Uniform Resource Locator)
+   https://google.com/about?userId=2
+
+   https:->Protocol(Hypertext Transfer Protocoal)
+   google.com:->Domain name user friendly name of Ip adderss of server.
+   /about:->Path
+   /about/contact:->nested path
+   ?userId=2:->query parameter
+
+5. Htpps methods
+   get:->when you want to get data form the server.
+   post:->when you want to send and mutate data to the server.
+   put:->when you want to put some data on server. ex- file , image etc.
+   patch:->when you want to update existing data on server.
+   delete:->when you want to delete data.
 
 

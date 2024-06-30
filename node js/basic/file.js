@@ -29,7 +29,7 @@ const os = require('os');
 
 
 //copy file
-// file.copyFileSync('contact.txt', 'contact3.txt');
+// file.copyFileSync('contact.txt', 'contact2.txt');
 
 
 //delete file
